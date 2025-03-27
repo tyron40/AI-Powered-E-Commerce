@@ -1,6 +1,9 @@
 # AI-Powered E-Commerce Platform
+![screencapture-dulcet-mousse-b335f3-netlify-app-2025-03-27-14_36_18](https://github.com/user-attachments/assets/f0555ef5-7e11-4c47-97f3-4a0a9bc78574)
+![screencapture-dulcet-mousse-b335f3-netlify-app-products-2025-03-27-14_36_36](https://github.com/user-attachments/assets/11eb4b3e-a959-481c-b024-f6972a8b9d67)
+![screencapture-dulcet-mousse-b335f3-netlify-app-recommendations-2025-03-27-14_38_00](https://github.com/user-attachments/assets/117e69e1-338d-4628-a220-5d5008a3b931)
+![screencapture-dulcet-mousse-b335f3-netlify-app-cart-2025-03-27-14_37_18](https://github.com/user-attachments/assets/7fccdc4f-9bf5-46dd-9fbf-ba5ab6669510)
 
-![AI Shop Banner](https://images.unsplash.com/photo-1607082349566-187342175e2f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2000&q=80)
 
 ## Overview
 
